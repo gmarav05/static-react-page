@@ -9,6 +9,10 @@ Built with simple HTML5 and **React JS.**.
 
 ## Video
 
+
+https://github.com/user-attachments/assets/4446b06e-b39c-4326-8442-a173a404ebd0
+
+
 ## Image
 ![](./src/assets/screenshot.png)
 
