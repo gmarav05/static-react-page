@@ -1,0 +1,85 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  height: 100vh;
+   height: 100%;
+  overflow-y: hidden;
+
+}
+
+.container {
+  background-color: #23252C;
+  border-radius: 15px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-img {
+  width: 25vw;
+}
+
+.main h1 {
+  margin-bottom: 0;
+  font-size: 35px;
+}
+
+.main > img {
+  width: 10vw;
+}
+
+.main > .email {
+  width: 10vw;
+  background-color: white;
+  color: black;
+  margin-top: 15px;
+}
+
+.email > img {
+  width: 14px;
+  margin-right: 10px;
+}
+
+.main p {
+  margin-bottom: 6px;
+  margin-top: 5px;
+}
+
+.about, .interests {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  text-align: left;
+  text-wrap: 1;
+}
+.interests{
+  margin-bottom: 20px;
+}
+
+.about h2 , .interests h2{
+  margin: 0;
+}
+
+.about p, .interests p {
+  margin: 0;
+}
+
+
+footer{
+  background-image: url('../src/assets/footer-background.png');
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+footer > img {
+  width: 35px;
+  padding: 30px 0px;
+}
