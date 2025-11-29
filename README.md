@@ -12,11 +12,6 @@ Built with simple HTML5 and **React JS.**.
 ## Image
 ![](./src/assets/screenshot.png)
 
-# 
-
-
-![](./image.png)
-
 ## Learnings
 
 - Learned how to setup React JS using Vite.
